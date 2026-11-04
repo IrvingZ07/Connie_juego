@@ -1,3 +1,13 @@
+Universidad Tecnológica de la Mixteca
+
+Materia: Desarrollo de Videojuegos (Septiembre 2026)
+
+*#Desarrolladores:#*
+
+Ramirez Gallardo Mario Enrique (Arte, Historia, Game Design)
+
+Pérez Zurita Irving Tristán (Arte, Historia, Game Design)
+
 Connie y Kiwi (Conias y Kiwi)
 
 ¡Un épico y explosivo viaje desde la madriguera hasta la Luna!
@@ -63,15 +73,3 @@ Instalación y Controles
 (Próximamente: Instrucciones para descargar, instalar y jugar el proyecto, además del esquema de controles en teclado/mando).
 
 Créditos
-
-Universidad Tecnológica de la Mixteca
-
-Materia: Desarrollo de Videojuegos (Septiembre 2026)
-
-Desarrolladores:
-
-Ramirez Gallardo Mario Enrique (Arte, Historia, Game Design)
-
-Pérez Zurita Irving Tristán (Arte, Historia, Game Design)
-
-"Chun quiaa Tiaha sihi Nillao" - Labor et Sapientia Libertas
