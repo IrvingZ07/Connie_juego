@@ -4,9 +4,11 @@ Materia: Desarrollo de Videojuegos (Septiembre 2026)
 
 *#Desarrolladores:#*
 
-Ramirez Gallardo Mario Enrique (Arte, Historia, Game Design)
+Mario Enrique Ramirez Gallardo
+Dirección de Arte | Diseño Narrativo | Game Design
 
-Pérez Zurita Irving Tristán (Arte, Historia, Game Design)
+Irving Tristán Pérez Zurita
+Dirección de Arte | Diseño Narrativo | Game Design
 
 Connie y Kiwi (Conias y Kiwi)
 
